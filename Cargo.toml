@@ -1,0 +1,7 @@
+[package]
+authors = ["Antoni Boucher <antoni.boucher@adgear.com>"]
+name = "findchar"
+version = "0.1.0"
+
+[dependencies]
+termios = "^0.2.2"
